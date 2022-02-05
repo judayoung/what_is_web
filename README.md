@@ -19,3 +19,20 @@ TCP/IP : https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%ED%94%84%EB%
 네트워크 : https://namu.wiki/w/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC 
 
 웹 브라우저 : https://ko.wikipedia.org/wiki/%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80 
+
+응용 소프트웨어 : https://ko.wikipedia.org/wiki/%EC%9D%91%EC%9A%A9_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4  
+
+웹 페이지 : https://ko.wikipedia.org/wiki/%EC%9B%B9_%ED%8E%98%EC%9D%B4%EC%A7%80
+
+웹 서버 : https://ko.wikipedia.org/wiki/%EC%9B%B9_%EC%84%9C%EB%B2%84 
+
+클라이언트 : https://ko.wikipedia.org/wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8 
+
+HTTP 메시지 : https://developer.mozilla.org/ko/docs/Web/HTTP/Messages
+
+# 이미지 자료
+아이콘 : <a href="https://www.flaticon.com/kr/free-icons/" title="컴퓨터 아이콘">컴퓨터 아이콘  제작자: Udea - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/-" title="섬기는 사람 아이콘">섬기는 사람 아이콘  제작자: Zlatko Najdenovski - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="사람 아이콘">사람 아이콘  제작자: spaceman.design - Flaticon</a>
