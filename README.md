@@ -4,6 +4,13 @@
 # prezi 링크
 https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
 
+# 업데이트
+2022-02-05 
+    web과 HTTP메소드
+2022-02-08 
+    전체 재구성 
+    하드웨어 소프트웨어 추가
+
 
 # 참고자료
 WWW : https://ko.wikipedia.org/wiki/%EC%9B%94%EB%93%9C_%EC%99%80%EC%9D%B4%EB%93%9C_%EC%9B%B9 
@@ -29,6 +36,12 @@ TCP/IP : https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%ED%94%84%EB%
 클라이언트 : https://ko.wikipedia.org/wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8 
 
 HTTP 메시지 : https://developer.mozilla.org/ko/docs/Web/HTTP/Messages
+
+브라우저 전쟁 : https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80_%EC%A0%84%EC%9F%81
+
+프록시 : https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%EC%8B%9C_%EC%84%9C%EB%B2%84
+
+캐시 : https://ko.wikipedia.org/wiki/%EC%BA%90%EC%8B%9C
 
 # 이미지 자료
 아이콘 : <a href="https://www.flaticon.com/kr/free-icons/" title="컴퓨터 아이콘">컴퓨터 아이콘  제작자: Udea - Flaticon</a>
