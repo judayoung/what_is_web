@@ -9,8 +9,7 @@ https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
     web과 HTTP메소드
     
 2022-02-08 
-    전체 재구성 
-    하드웨어 소프트웨어 추가
+    전체 재구성, 하드웨어 소프트웨어 추가
 
 
 # 참고자료
