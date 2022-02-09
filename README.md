@@ -9,7 +9,7 @@ https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
     
 2022-02-08  전체 재구성, 하드웨어 소프트웨어 추가
 
-2022-02-09  IDE, 프로그래밍 언어, 프레임워크, 라이브러리, 아키텍처 등  
+2022-02-09  IDE, 프로그래밍 언어, 프레임워크, 라이브러리, 아키텍처 등 추가
 
 
 # 참고자료
@@ -59,6 +59,8 @@ IDE : https://ko.wikipedia.org/wiki/%ED%86%B5%ED%95%A9_%EA%B0%9C%EB%B0%9C_%ED%99
 
 프레임워크 : https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC
 
+  https://namu.wiki/w/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC
+
 architecture : http://wiki.hash.kr/index.php/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98  
 
 MVC : https://developer.mozilla.org/ko/docs/Glossary/MVC 
@@ -66,6 +68,18 @@ MVC : https://developer.mozilla.org/ko/docs/Glossary/MVC
 routing : https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9A%B0%ED%8C%85
 
 프로그래밍 언어 : https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4
+
+인터페이스(넓은 의미) : https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_(%EC%BB%B4%ED%93%A8%ED%8C%85)
+
+API : https://ko.wikipedia.org/wiki/API
+
+USB : https://ko.wikipedia.org/wiki/USB  
+
+시스템 소프트웨어 : https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4
+
+PHP : https://ko.wikipedia.org/wiki/PHP
+
+parsing : http://wiki.hash.kr/index.php/%ED%8C%8C%EC%8B%B1   
 
 
 
@@ -81,3 +95,9 @@ routing : https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9A%B0%ED%8C%85
 <a href="https://www.flaticon.com/kr/free-icons/" title="수리 아이콘">수리 아이콘  제작자: Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/kr/free-icons/-" title="프로그램 작성 아이콘">프로그램 작성 아이콘  제작자: Freepik - Flaticon</a>  
+
+<a href="https://www.flaticon.com/kr/free-icons/-" title="하부 구조 아이콘">하부 구조 아이콘  제작자: surang - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="공장 아이콘">공장 아이콘  제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/-" title="- 아이콘">- 아이콘  제작자: Skyclick - Flaticon</a>
