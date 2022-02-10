@@ -11,6 +11,8 @@ https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
 
 2022-02-09  IDE, 프로그래밍 언어, 프레임워크, 라이브러리, 아키텍처 등 추가
 
+2022-02-10  산업 용어를 토픽으로 추가, Spring, DBMS, 
+
 
 # 참고자료
 2022-02-05
@@ -82,6 +84,30 @@ PHP : https://ko.wikipedia.org/wiki/PHP
 parsing : http://wiki.hash.kr/index.php/%ED%8C%8C%EC%8B%B1   
 
 
+----
+2022-02-10
+
+MES : https://ko.wikipedia.org/wiki/%EC%83%9D%EC%82%B0_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C
+
+PLC : https://namu.wiki/w/PLC
+
+Spring : https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC
+
+POJO : https://ko.wikipedia.org/wiki/Plain_Old_Java_Object
+
+미들웨어 : https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4
+
+DBMS : https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C
+
+모듈 : https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%93%88_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+
+가상화 : https://www.redhat.com/ko/topics/virtualization/what-is-virtualization
+
+VM : https://www.redhat.com/ko/topics/virtualization/what-is-a-virtual-machine
+
+컨테이너 : https://www.ibm.com/kr-ko/cloud/learn/containers
+
+
 
 # 이미지 자료
 <a href="https://www.flaticon.com/kr/free-icons/" title="컴퓨터 아이콘">컴퓨터 아이콘  제작자: Udea - Flaticon</a>
@@ -101,3 +127,5 @@ parsing : http://wiki.hash.kr/index.php/%ED%8C%8C%EC%8B%B1
 <a href="https://www.flaticon.com/kr/free-icons/" title="공장 아이콘">공장 아이콘  제작자: Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/kr/free-icons/-" title="- 아이콘">- 아이콘  제작자: Skyclick - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/database" title="database icons">Database icons created by Icongeek26 - Flaticon</a>
