@@ -11,7 +11,7 @@ https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
 
 2022-02-09  IDE, 프로그래밍 언어, 프레임워크, 라이브러리, 아키텍처 등 추가
 
-2022-02-10  산업 용어를 토픽으로 추가, Spring, DBMS, 
+2022-02-10  산업 용어를 토픽으로 추가, Spring, DBMS, 소프트웨어 개발 프로세스 모델 등 추가
 
 
 # 참고자료
@@ -107,6 +107,12 @@ VM : https://www.redhat.com/ko/topics/virtualization/what-is-a-virtual-machine
 
 컨테이너 : https://www.ibm.com/kr-ko/cloud/learn/containers
 
+Oracle DB : https://namu.wiki/w/%EC%98%A4%EB%9D%BC%ED%81%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
+
+소프트웨어 개발 프로세스 모델 : https://onecoin-life.com/24
+
+폭포수 모델 : https://ko.wikipedia.org/wiki/%ED%8F%AD%ED%8F%AC%EC%88%98_%EB%AA%A8%EB%8D%B8
+
 
 
 # 이미지 자료
@@ -129,3 +135,9 @@ VM : https://www.redhat.com/ko/topics/virtualization/what-is-a-virtual-machine
 <a href="https://www.flaticon.com/kr/free-icons/-" title="- 아이콘">- 아이콘  제작자: Skyclick - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/database" title="database icons">Database icons created by Icongeek26 - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/-" title="공장 공장 아이콘">공장 공장 아이콘  제작자: photo3idea_studio - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/-" title="웹 컨텐츠 아이콘">웹 컨텐츠 아이콘  제작자: smashingstocks - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/www" title="www 아이콘">Www 아이콘  제작자: Freepik - Flaticon</a>
