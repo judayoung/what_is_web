@@ -85,7 +85,6 @@ PHP : https://ko.wikipedia.org/wiki/PHP
 
 parsing : http://wiki.hash.kr/index.php/%ED%8C%8C%EC%8B%B1   
 
-
 ----
 2022-02-10
 
@@ -134,6 +133,14 @@ Entry Point : https://ko.wikipedia.org/wiki/%EC%97%94%ED%8A%B8%EB%A6%AC_%ED%8F%A
 Persistence Framework : https://ko.wikipedia.org/wiki/%EC%A7%80%EC%86%8D%EC%84%B1_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC
 
 JDBC : https://ko.wikipedia.org/wiki/JDBC
+
+빌드 도구 : https://www.techopedia.com/definition/16359/build-tool
+
+Gradle : https://namu.wiki/w/Gradle?from=%EA%B7%B8%EB%9E%98%EB%93%A4
+
+JAR : https://ko.wikipedia.org/wiki/JAR_(%ED%8C%8C%EC%9D%BC_%ED%8F%AC%EB%A7%B7)
+
+WAR : https://ko.wikipedia.org/wiki/WAR_(%ED%8C%8C%EC%9D%BC_%ED%8F%AC%EB%A7%B7)
 
 
 # 이미지 자료
