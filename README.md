@@ -13,6 +13,8 @@ https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
 
 2022-02-10  산업 용어를 토픽으로 추가, Spring, DBMS, 소프트웨어 개발 프로세스 모델 등 추가
 
+2022-02-12  프로토타입 모델, 스크립트 언어, Persistence framework 추가 
+
 
 # 참고자료
 2022-02-05
@@ -113,6 +115,25 @@ Oracle DB : https://namu.wiki/w/%EC%98%A4%EB%9D%BC%ED%81%B4%20%EB%8D%B0%EC%9D%B4
 
 폭포수 모델 : https://ko.wikipedia.org/wiki/%ED%8F%AD%ED%8F%AC%EC%88%98_%EB%AA%A8%EB%8D%B8
 
+----
+
+2022-02-12
+
+프로토타이핑 모델 : https://itwiki.kr/w/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91_%EB%AA%A8%EB%8D%B8
+
+SDK : https://www.redhat.com/ko/topics/cloud-native-apps/what-is-SDK  
+
+JRE : https://www.redhat.com/ko/topics/cloud-native-apps/what-is-a-Java-runtime-environment 
+
+스크립트 언어 : https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%96%B8%EC%96%B4
+
+REPL : https://ko.wikipedia.org/wiki/REPL
+
+Entry Point : https://ko.wikipedia.org/wiki/%EC%97%94%ED%8A%B8%EB%A6%AC_%ED%8F%AC%EC%9D%B8%ED%8A%B8
+
+Persistence Framework : https://ko.wikipedia.org/wiki/%EC%A7%80%EC%86%8D%EC%84%B1_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC
+
+JDBC : https://ko.wikipedia.org/wiki/JDBC
 
 
 # 이미지 자료
@@ -141,3 +162,5 @@ Oracle DB : https://namu.wiki/w/%EC%98%A4%EB%9D%BC%ED%81%B4%20%EB%8D%B0%EC%9D%B4
 <a href="https://www.flaticon.com/kr/free-icons/-" title="웹 컨텐츠 아이콘">웹 컨텐츠 아이콘  제작자: smashingstocks - Flaticon</a>
 
 <a href="https://www.flaticon.com/kr/free-icons/www" title="www 아이콘">Www 아이콘  제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="전부 아이콘">전부 아이콘  제작자: Freepik - Flaticon</a>
