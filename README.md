@@ -15,6 +15,8 @@ https://prezi.com/view/Jm2UbdPvzLv4CnTbQZ7X/
 
 2022-02-12  프로토타입 모델, 스크립트 언어, Persistence framework 추가 
 
+2022-02-14  
+
 
 # 참고자료
 2022-02-05
@@ -142,6 +144,35 @@ JAR : https://ko.wikipedia.org/wiki/JAR_(%ED%8C%8C%EC%9D%BC_%ED%8F%AC%EB%A7%B7)
 
 WAR : https://ko.wikipedia.org/wiki/WAR_(%ED%8C%8C%EC%9D%BC_%ED%8F%AC%EB%A7%B7)
 
+----
+
+2022-02-14
+
+apache : https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_HTTP_%EC%84%9C%EB%B2%84
+
+JSP : https://namu.wiki/w/JSP
+
+REST : https://ko.wikipedia.org/wiki/REST
+
+Mongo DB : https://ko.wikipedia.org/wiki/%EB%AA%BD%EA%B3%A0DB
+
+형상 관리 : https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%84%B1_%EA%B4%80%EB%A6%AC
+
+트랜잭션 : https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98
+
+라이브러리 : https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85)
+
+Lombok : https://dololak.tistory.com/783
+
+로그 : https://namu.wiki/w/%EB%A1%9C%EA%B7%B8
+
+jQuery : http://tcpschool.com/jquery/intro
+
+템플릿 엔진 : https://gmlwjd9405.github.io/2018/12/21/template-engine.html
+
+JPA : https://gmlwjd9405.github.io/2019/08/04/what-is-jpa.html
+
+
 
 # 이미지 자료
 <a href="https://www.flaticon.com/kr/free-icons/" title="컴퓨터 아이콘">컴퓨터 아이콘  제작자: Udea - Flaticon</a>
@@ -169,5 +200,7 @@ WAR : https://ko.wikipedia.org/wiki/WAR_(%ED%8C%8C%EC%9D%BC_%ED%8F%AC%EB%A7%B7)
 <a href="https://www.flaticon.com/kr/free-icons/-" title="웹 컨텐츠 아이콘">웹 컨텐츠 아이콘  제작자: smashingstocks - Flaticon</a>
 
 <a href="https://www.flaticon.com/kr/free-icons/www" title="www 아이콘">Www 아이콘  제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/ui" title="ui 아이콘">Ui 아이콘  제작자: Graphix's Art - Flaticon</a>
 
 <a href="https://www.flaticon.com/kr/free-icons/" title="전부 아이콘">전부 아이콘  제작자: Freepik - Flaticon</a>
